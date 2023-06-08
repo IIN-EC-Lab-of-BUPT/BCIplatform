@@ -1,0 +1,10 @@
+2022-01-16 16:37:00.945 | INFO     | DeviceModule.NeuroScanEEG:__init__:55 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2022-01-16 16:37:00.956 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:66 - CONNECT TO Kafka
+2022-01-16 16:37:03.003 | INFO     | DeviceModule.NeuroScanEEG:connect:91 - CONNECT FAILED, RETRYING FOR 1 TIME
+2022-01-16 16:37:05.047 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2022-01-16 16:37:07.080 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2022-01-16 16:37:09.103 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2022-01-16 16:37:11.147 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 5 TIMES
+2022-01-16 16:37:13.196 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 6 TIMES
+2022-01-16 16:37:15.239 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 7 TIMES
+2022-01-16 16:37:17.271 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 8 TIMES

@@ -1,0 +1,26 @@
+2023-01-10 14:50:02.258 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2023-01-10 14:50:02.327 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:73 - CONNECT TO Kafka
+2023-01-10 14:50:02.328 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - DATA SERVER CONNECTED
+2023-01-10 14:50:04.708 | INFO     | DeviceModule.NeuroScanEEG:parseData:216 - received DATA information，started at 0，received time 2023-01-10 14:50:04.645
+2023-01-10 14:50:27.881 | INFO     | DeviceModule.NeuroScanEEG:connect:98 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-01-10 14:50:29.929 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-01-10 14:50:32.003 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2023-01-10 14:50:34.085 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2023-01-10 14:50:36.147 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 5 TIMES
+2023-01-10 14:50:38.208 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 6 TIMES
+2023-01-10 14:50:40.257 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 7 TIMES
+2023-01-10 14:50:42.339 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 8 TIMES
+2023-01-10 14:50:44.413 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 9 TIMES
+2023-01-10 14:50:46.459 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 10 TIMES
+2023-01-10 14:50:48.514 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 11 TIMES
+2023-01-10 14:50:50.556 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 12 TIMES
+2023-01-10 14:50:52.655 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 13 TIMES
+2023-01-10 14:50:54.740 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 14 TIMES
+2023-01-10 14:50:56.800 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 15 TIMES
+2023-01-10 14:50:58.886 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 16 TIMES
+2023-01-10 14:51:00.932 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 17 TIMES
+2023-01-10 14:51:02.984 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 18 TIMES
+2023-01-10 14:51:05.038 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 19 TIMES
+2023-01-10 14:51:07.084 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 20 TIMES
+2023-01-10 14:51:09.197 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 21 TIMES
+2023-01-10 14:51:09.229 | DEBUG    | DeviceModule.NeuroScanEEG:parseData:235 - Can't connect recorder, Please open the hostport 

@@ -1,0 +1,8 @@
+2023-03-13 18:46:50.618 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:9 TopicName:NeuroScanEEG】
+2023-03-13 18:46:51.630 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:46:53.155 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:46:54.679 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:46:56.200 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:46:57.712 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:46:59.234 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:47:00.756 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka

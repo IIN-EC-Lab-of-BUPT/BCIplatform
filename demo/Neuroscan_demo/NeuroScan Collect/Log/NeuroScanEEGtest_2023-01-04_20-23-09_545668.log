@@ -1,0 +1,29 @@
+2023-01-04 20:23:09.558 | INFO     | DeviceModule.NeuroScanEEG:__init__:57 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2023-01-04 20:23:09.652 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:68 - CONNECT TO Kafka
+2023-01-04 20:23:11.678 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-01-04 20:23:13.713 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-01-04 20:23:15.749 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2023-01-04 20:23:17.774 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2023-01-04 20:23:18.789 | INFO     | DeviceModule.NeuroScanEEG:connect:88 - DATA SERVER CONNECTED
+2023-01-04 20:23:20.916 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 5500，received time 2023-01-04 20:23:20.901
+2023-01-04 20:23:21.351 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 6000，received time 2023-01-04 20:23:21.350
+2023-01-04 20:23:22.023 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 6500，received time 2023-01-04 20:23:21.992
+2023-01-04 20:23:22.500 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 7000，received time 2023-01-04 20:23:22.484
+2023-01-04 20:23:22.930 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 7500，received time 2023-01-04 20:23:22.915
+2023-01-04 20:23:23.560 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 8000，received time 2023-01-04 20:23:23.530
+2023-01-04 20:23:24.006 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 8500，received time 2023-01-04 20:23:23.960
+2023-01-04 20:23:24.483 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 9000，received time 2023-01-04 20:23:24.468
+2023-01-04 20:23:24.991 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 9500，received time 2023-01-04 20:23:24.960
+2023-01-04 20:23:25.529 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 10000，received time 2023-01-04 20:23:25.468
+2023-01-04 20:23:26.021 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 10500，received time 2023-01-04 20:23:26.006
+2023-01-04 20:23:28.466 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-01-04 20:23:30.526 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-01-04 20:23:32.571 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2023-01-04 20:23:34.616 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2023-01-04 20:23:36.661 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 5 TIMES
+2023-01-04 20:23:38.706 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 6 TIMES
+2023-01-04 20:23:40.751 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 7 TIMES
+2023-01-04 20:23:42.842 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 8 TIMES
+2023-01-04 20:23:44.949 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 9 TIMES
+2023-01-04 20:23:47.025 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 10 TIMES
+2023-01-04 20:23:49.070 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 11 TIMES

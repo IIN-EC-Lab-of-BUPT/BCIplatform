@@ -1,0 +1,2 @@
+2023-04-04 17:03:42.311 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-04-04 17:03:42.312 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法

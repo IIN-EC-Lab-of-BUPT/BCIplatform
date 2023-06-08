@@ -1,0 +1,8 @@
+{
+  "device_name": "NeuroScan",
+  "hostname": "127.0.0.1",
+  "port": 4455,
+  "n_chan":9,
+  "topic":"NeuroScanEEG",
+  "log_level":2
+}

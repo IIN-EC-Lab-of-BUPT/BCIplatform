@@ -1,0 +1,12 @@
+2023-03-13 16:10:56.729 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 16:10:56.783 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2023-03-13 19:27:20.124 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 19:27:20.124 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2023-03-13 19:29:05.306 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 19:29:05.307 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2023-03-13 19:31:11.832 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 19:31:11.832 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2023-03-13 19:34:40.022 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 19:34:40.023 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2023-03-13 20:37:38.204 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2023-03-13 20:37:38.204 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法

@@ -1,0 +1,245 @@
+2023-03-13 18:59:02.392 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:9 TopicName:NeuroScanEEG】
+2023-03-13 18:59:03.393 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:04.915 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:06.438 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:07.957 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:09.483 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:11.015 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:12.529 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:14.054 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:15.570 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:17.084 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:18.602 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:20.127 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:21.644 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:23.158 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:24.665 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:26.190 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:27.715 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:29.239 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:30.766 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:32.284 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:33.805 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:35.333 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:36.854 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:38.381 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:39.891 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:41.399 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:42.921 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:44.449 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:45.975 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:47.486 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:48.996 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:50.522 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:52.039 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:53.552 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:55.070 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:56.575 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:58.091 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 18:59:59.601 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:01.114 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:02.628 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:04.145 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:05.661 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:07.182 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:08.698 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:10.207 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:11.724 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:13.242 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:14.754 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:16.267 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:17.778 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:19.288 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:20.800 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:22.315 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:23.839 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:25.358 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:26.874 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:28.386 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:29.902 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:31.412 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:32.920 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:34.443 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:35.959 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:37.464 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:38.984 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:40.506 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:42.024 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:43.532 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:45.043 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:46.558 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:48.082 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:49.602 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:51.117 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:52.635 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:54.155 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:55.664 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:57.188 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:00:58.692 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:00.195 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:01.697 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:03.215 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:04.734 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:06.248 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:07.763 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:09.275 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:10.789 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:12.308 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:13.832 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:15.360 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:16.878 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:18.407 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:19.927 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:21.445 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:22.970 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:24.491 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:26.009 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:27.520 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:29.034 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:30.553 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:32.061 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:33.587 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:35.106 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:36.622 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:38.143 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:39.667 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:41.182 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:42.693 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:44.197 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:45.709 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:47.227 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:48.739 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:50.260 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:51.779 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:53.301 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:54.805 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:56.324 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:57.844 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:01:59.368 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:00.882 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:02.404 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:03.925 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:05.451 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:06.976 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:08.499 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:10.033 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:11.539 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:13.042 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:14.557 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:16.072 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:17.588 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:19.098 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:20.620 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:22.128 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:23.648 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:25.165 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:26.685 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:28.209 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:29.718 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:31.240 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:32.752 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:34.268 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:35.782 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:37.292 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:38.807 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:40.325 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:41.837 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:43.358 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:44.875 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:46.393 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:47.920 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:49.432 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:50.940 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:52.457 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:53.970 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:55.477 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:56.993 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:02:58.518 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:00.026 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:01.540 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:03.050 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:04.556 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:06.074 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:07.579 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:09.099 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:10.610 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:12.134 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:13.650 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:15.178 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:16.694 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:18.209 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:19.713 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:21.234 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:22.746 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:24.263 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:25.779 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:27.307 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:28.830 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:30.341 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:31.860 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:33.375 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:34.904 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:36.420 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:37.935 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:39.447 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:40.966 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:42.474 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:43.992 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:45.517 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:47.033 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:48.548 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:50.073 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:51.583 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:53.103 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:54.611 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:56.130 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:57.639 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:03:59.158 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:00.683 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:02.201 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:03.711 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:05.232 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:06.743 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:08.254 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:09.760 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:11.274 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:12.788 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:14.299 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:15.825 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:17.353 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:18.865 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:20.390 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:21.911 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:23.424 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:24.941 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:26.452 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:27.962 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:29.479 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:30.985 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:32.496 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:34.013 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:35.519 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:37.043 | DEBUG    | DeviceModule.NeuroScanEEG:connect_kafka:76 - CANNOT CONNECT TO Kafka
+2023-03-13 19:04:37.996 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:73 - CONNECT TO Kafka
+2023-03-13 19:04:40.038 | INFO     | DeviceModule.NeuroScanEEG:connect:98 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-03-13 19:04:42.065 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-03-13 19:04:44.107 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2023-03-13 19:04:46.128 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2023-03-13 19:04:48.157 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 5 TIMES
+2023-03-13 19:04:50.191 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 6 TIMES
+2023-03-13 19:04:52.219 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 7 TIMES
+2023-03-13 19:04:54.240 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 8 TIMES
+2023-03-13 19:04:56.285 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 9 TIMES
+2023-03-13 19:04:58.306 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 10 TIMES
+2023-03-13 19:05:00.324 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 11 TIMES
+2023-03-13 19:05:02.350 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 12 TIMES
+2023-03-13 19:05:04.380 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 13 TIMES
+2023-03-13 19:05:06.400 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 14 TIMES
+2023-03-13 19:05:08.410 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 15 TIMES
+2023-03-13 19:05:10.420 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 16 TIMES
+2023-03-13 19:05:12.443 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 17 TIMES
+2023-03-13 19:05:14.462 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 18 TIMES
+2023-03-13 19:05:16.476 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 19 TIMES
+2023-03-13 19:05:18.504 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 20 TIMES
+2023-03-13 19:05:20.533 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 21 TIMES
+2023-03-13 19:05:20.533 | DEBUG    | Starter:run:49 - Can't connect recorder, Please open the hostport 

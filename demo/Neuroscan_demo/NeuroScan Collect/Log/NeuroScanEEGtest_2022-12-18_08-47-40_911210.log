@@ -1,0 +1,29 @@
+2022-12-18 08:47:40.919 | INFO     | DeviceModule.NeuroScanEEG:__init__:57 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2022-12-18 08:47:40.998 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:68 - CONNECT TO Kafka
+2022-12-18 08:47:43.048 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 1 TIME
+2022-12-18 08:47:45.080 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2022-12-18 08:47:47.120 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2022-12-18 08:47:49.172 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2022-12-18 08:47:50.710 | INFO     | DeviceModule.NeuroScanEEG:connect:88 - DATA SERVER CONNECTED
+2022-12-18 08:47:51.797 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 10500，received time 2022-12-18 08:47:51.781
+2022-12-18 08:47:52.141 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:53.982 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 1 TIME
+2022-12-18 08:47:55.551 | INFO     | DeviceModule.NeuroScanEEG:connect:88 - DATA SERVER CONNECTED
+2022-12-18 08:47:56.696 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 11000，received time 2022-12-18 08:47:56.681
+2022-12-18 08:47:56.806 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:57.218 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 11500，received time 2022-12-18 08:47:57.202
+2022-12-18 08:47:57.337 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:57.761 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 12000，received time 2022-12-18 08:47:57.746
+2022-12-18 08:47:57.789 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:58.242 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 12500，received time 2022-12-18 08:47:58.227
+2022-12-18 08:47:58.270 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:58.772 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 13000，received time 2022-12-18 08:47:58.756
+2022-12-18 08:47:58.800 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:59.271 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 13500，received time 2022-12-18 08:47:59.255
+2022-12-18 08:47:59.327 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:48:01.828 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - CONNECT FAILED, RETRYING FOR 1 TIME
+2022-12-18 08:48:03.909 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2022-12-18 08:48:06.008 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2022-12-18 08:48:08.088 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2022-12-18 08:48:10.164 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 5 TIMES
+2022-12-18 08:48:12.272 | INFO     | DeviceModule.NeuroScanEEG:connect:95 - CONNECT FAILED, RETRYING FOR 6 TIMES

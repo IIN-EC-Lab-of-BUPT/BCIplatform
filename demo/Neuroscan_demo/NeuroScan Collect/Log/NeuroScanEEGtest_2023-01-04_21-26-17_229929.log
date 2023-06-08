@@ -1,0 +1,16 @@
+2023-01-04 21:26:17.249 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2023-01-04 21:26:17.317 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:73 - CONNECT TO Kafka
+2023-01-04 21:26:19.329 | INFO     | DeviceModule.NeuroScanEEG:connect:98 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-01-04 21:26:21.381 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-01-04 21:26:23.403 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 3 TIMES
+2023-01-04 21:26:25.446 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 4 TIMES
+2023-01-04 21:26:26.455 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - DATA SERVER CONNECTED
+2023-01-04 21:26:28.680 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 21:26:28.650
+2023-01-04 21:26:29.077 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 500，received time 2023-01-04 21:26:29.077
+2023-01-04 21:26:29.774 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 1000，received time 2023-01-04 21:26:29.727
+2023-01-04 21:26:30.241 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 1500，received time 2023-01-04 21:26:30.225
+2023-01-04 21:26:30.740 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 2000，received time 2023-01-04 21:26:30.724
+2023-01-04 21:26:31.283 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 2500，received time 2023-01-04 21:26:31.253
+2023-01-04 21:26:33.543 | INFO     | DeviceModule.NeuroScanEEG:connect:98 - CONNECT FAILED, RETRYING FOR 1 TIME
+2023-01-04 21:26:35.611 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 2 TIMES
+2023-01-04 21:26:37.669 | INFO     | DeviceModule.NeuroScanEEG:connect:100 - CONNECT FAILED, RETRYING FOR 3 TIMES

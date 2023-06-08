@@ -1,0 +1,45 @@
+2022-12-18 08:47:20.497 | INFO     | DeviceModule.NeuroScanEEG:__init__:57 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2022-12-18 08:47:20.564 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:68 - CONNECT TO Kafka
+2022-12-18 08:47:20.565 | INFO     | DeviceModule.NeuroScanEEG:connect:88 - DATA SERVER CONNECTED
+2022-12-18 08:47:21.683 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 0，received time 2022-12-18 08:47:21.667
+2022-12-18 08:47:22.115 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 500，received time 2022-12-18 08:47:22.115
+2022-12-18 08:47:22.630 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 1000，received time 2022-12-18 08:47:22.630
+2022-12-18 08:47:22.633 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:22.669 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:22.697 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:23.169 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 1500，received time 2022-12-18 08:47:23.154
+2022-12-18 08:47:23.196 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:23.712 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 2000，received time 2022-12-18 08:47:23.680
+2022-12-18 08:47:23.740 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:24.207 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 2500，received time 2022-12-18 08:47:24.176
+2022-12-18 08:47:24.234 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:24.706 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 3000，received time 2022-12-18 08:47:24.691
+2022-12-18 08:47:24.734 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:25.217 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 3500，received time 2022-12-18 08:47:25.202
+2022-12-18 08:47:25.244 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:25.730 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 4000，received time 2022-12-18 08:47:25.715
+2022-12-18 08:47:25.758 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:26.255 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 4500，received time 2022-12-18 08:47:26.240
+2022-12-18 08:47:26.283 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:26.781 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 5000，received time 2022-12-18 08:47:26.752
+2022-12-18 08:47:26.808 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:27.277 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 5500，received time 2022-12-18 08:47:27.262
+2022-12-18 08:47:27.304 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:27.791 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 6000，received time 2022-12-18 08:47:27.776
+2022-12-18 08:47:27.818 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:28.288 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 6500，received time 2022-12-18 08:47:28.273
+2022-12-18 08:47:28.315 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:28.805 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 7000，received time 2022-12-18 08:47:28.789
+2022-12-18 08:47:28.879 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:29.321 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 7500，received time 2022-12-18 08:47:29.305
+2022-12-18 08:47:29.364 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:29.834 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 8000，received time 2022-12-18 08:47:29.819
+2022-12-18 08:47:29.862 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:30.344 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 8500，received time 2022-12-18 08:47:30.313
+2022-12-18 08:47:30.372 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:30.853 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 9000，received time 2022-12-18 08:47:30.838
+2022-12-18 08:47:30.879 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:31.349 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 9500，received time 2022-12-18 08:47:31.334
+2022-12-18 08:47:31.377 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend
+2022-12-18 08:47:31.875 | INFO     | DeviceModule.NeuroScanEEG:parseData:204 - received DATA information，started at 10000，received time 2022-12-18 08:47:31.859
+2022-12-18 08:47:31.917 | INFO     | DeviceModule.NeuroScanEEG:sendData:242 - sendsendsend

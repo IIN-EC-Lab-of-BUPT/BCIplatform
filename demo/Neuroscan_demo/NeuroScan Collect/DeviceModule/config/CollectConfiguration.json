@@ -1,0 +1,12 @@
+{
+  "device_name": "TobiiScan",
+  "hostname": "localhost",
+  "port": 4455,
+  "n_chan":10,
+  "topic":"TobiiCollect",
+  "log_level":2
+}
+
+
+
+

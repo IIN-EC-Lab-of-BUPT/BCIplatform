@@ -1,0 +1,37 @@
+2023-01-04 23:50:52.030 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2023-01-04 23:50:52.099 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:73 - CONNECT TO Kafka
+2023-01-04 23:50:52.099 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - DATA SERVER CONNECTED
+2023-01-04 23:50:55.452 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:50:55.393
+2023-01-04 23:50:56.236 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:50:56.222
+2023-01-04 23:50:57.097 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:50:57.035
+2023-01-04 23:50:58.127 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:50:58.114
+2023-01-04 23:50:59.326 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:50:59.313
+2023-01-04 23:51:00.157 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:00.143
+2023-01-04 23:51:00.756 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:00.743
+2023-01-04 23:51:01.910 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:01.896
+2023-01-04 23:51:02.740 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:02.726
+2023-01-04 23:51:03.432 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:03.401
+2023-01-04 23:51:03.893 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:03.880
+2023-01-04 23:51:04.401 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:04.387
+2023-01-04 23:51:04.816 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:04.816
+2023-01-04 23:51:05.415 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:05.403
+2023-01-04 23:51:05.954 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:05.938
+2023-01-04 23:51:06.569 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:06.538
+2023-01-04 23:51:07.168 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:07.109
+2023-01-04 23:51:07.906 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:07.892
+2023-01-04 23:51:08.690 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:08.677
+2023-01-04 23:51:09.844 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:09.830
+2023-01-04 23:51:11.043 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:11.029
+2023-01-04 23:51:11.889 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:11.861
+2023-01-04 23:51:12.673 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:12.659
+2023-01-04 23:51:13.765 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:13.751
+2023-01-04 23:51:14.610 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:14.581
+2023-01-04 23:51:15.241 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:15.210
+2023-01-04 23:51:16.378 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:16.317
+2023-01-04 23:51:17.224 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:17.147
+2023-01-04 23:51:18.239 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:18.225
+2023-01-04 23:51:19.038 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:19.012
+2023-01-04 23:51:20.253 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:20.192
+2023-01-04 23:51:21.053 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:21.022
+2023-01-04 23:51:21.791 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:21.778
+2023-01-04 23:51:22.944 | INFO     | DeviceModule.NeuroScanEEG:parseData:213 - received DATA information，started at 0，received time 2023-01-04 23:51:22.930

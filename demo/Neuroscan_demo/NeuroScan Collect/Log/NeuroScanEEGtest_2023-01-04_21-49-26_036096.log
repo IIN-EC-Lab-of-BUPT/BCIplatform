@@ -1,0 +1,4 @@
+2023-01-04 21:49:26.043 | INFO     | DeviceModule.NeuroScanEEG:__init__:62 - ConfiguratinInfo【DeviceName:NeuroScan Port:4455 ChannelNumber:10 TopicName:NeuroScanEEG】
+2023-01-04 21:49:26.114 | INFO     | DeviceModule.NeuroScanEEG:connect_kafka:73 - CONNECT TO Kafka
+2023-01-04 21:49:26.115 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - DATA SERVER CONNECTED
+2023-01-04 21:49:29.959 | INFO     | DeviceModule.NeuroScanEEG:connect:93 - DATA SERVER CONNECTED

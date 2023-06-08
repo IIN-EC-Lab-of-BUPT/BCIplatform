@@ -1,0 +1,6 @@
+2022-12-18 08:19:07.825 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2022-12-18 08:19:07.825 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-12-18 08:31:32.964 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2022-12-18 08:31:32.965 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-12-18 10:46:46.814 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:51 - 开始从NeuroScanEEG接收脑电数据
+2022-12-18 10:46:46.815 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法

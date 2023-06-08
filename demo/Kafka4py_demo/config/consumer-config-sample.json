@@ -1,0 +1,2 @@
+{ "bootstrap.servers": "server:60000", "auto.offset.reset": "latest",
+  "enable.auto.commit":  "False", "retry.limit": "3", "debug.log.enable": "False"}
